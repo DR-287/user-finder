@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info
+dist/
+build/
+*.egg
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Project specific
+favorites.json
+*.log
+
+# Dependencies
+*.egg-info/
